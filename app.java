@@ -15,3 +15,4 @@ public class EvenOdd {
             System.out.println(num + " is odd");
     }
 }
+i am adding some new changes 

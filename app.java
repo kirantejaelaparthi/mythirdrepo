@@ -15,4 +15,4 @@ public class EvenOdd {
             System.out.println(num + " is odd");
     }
 }
-this is for you
+this is for vinni

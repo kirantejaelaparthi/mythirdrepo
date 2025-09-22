@@ -15,4 +15,4 @@ public class EvenOdd {
             System.out.println(num + " is odd");
     }
 }
-this is the new changes which vinni wanted to be applied here
+this is for rupini
